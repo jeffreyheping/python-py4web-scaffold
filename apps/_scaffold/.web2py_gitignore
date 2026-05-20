@@ -1,7 +1,0 @@
-*~
-.*
-#*
-*.pyc
-*.pyo
-__pycache__
-uploads/**
